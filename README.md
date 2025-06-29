@@ -1,10 +1,10 @@
-# 🚌 Smart Public Transport Optimization System – SRS 📄
+# 🚌 SmartTransit-Public Transport Optimization System – SRS Document 📄
 
-This repository contains the **Software Requirements Specification (SRS)** document for the **Smart Public Transport Optimization System**, a proposed digital solution to streamline and modernize the public transportation experience for both passengers and transport authorities.
+This repository contains the **Software Requirements Specification (SRS)** document for the **SmartTransit-Public Transport Optimization System**, a proposed digital solution to streamline and modernize the public transportation experience for both passengers and transport authorities.
 
 ## 📌 Project Overview
 
-The **Smart Public Transport Optimization System** is designed to improve how people interact with public transit services. The system supports route searching, real-time bus tracking, e-ticketing, and admin-level bus and employee management – all in one platform.
+The **SmartTransit-Public Transport Optimization System** is designed to improve how people interact with public transit services. The system supports route searching, real-time bus tracking, e-ticketing, and admin-level bus and employee management – all in one platform.
 
 This SRS outlines the key **functional** and **non-functional** requirements of the system, helping guide future design and development phases.
 
