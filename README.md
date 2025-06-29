@@ -29,8 +29,8 @@ The SRS includes the following sections:
     - Live seat tracking and financial reporting
 - **4. System Features**
   - Prioritized system features using weighted benefit-penalty analysis
-
----
+- **5. UI/UX Design**
+  - It contains beautiful UI/UX design of the app including User(Passenger) and  Admin (Web app)
 
 ## ✅ Key Features
 
